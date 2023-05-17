@@ -1,0 +1,3 @@
+ReadEncoder.c:27:6:HAL_TIM_PeriodElapsedCallback	2
+ReadEncoder.c:32:10:micros	1
+ReadEncoder.c:36:6:QEIEncoderPositionVelocity_Update	3

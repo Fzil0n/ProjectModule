@@ -83,7 +83,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
-						<entry excluding="WindowFunctions/WindowFunctions.c|TransformFunctions/TransformFunctions.c|SVMFunctions/SVMFunctions.c|SupportFunctions/SupportFunctions.c|StatisticsFunctions/StatisticsFunctions.c|QuaternionMathFunctions/QuaternionMathFunctions.c|MatrixFunctions/MatrixFunctions.c|InterpolationFunctions/InterpolationFunctions.c|FilteringFunctions/FilteringFunctions.c|FastMathFunctions/FastMathFunctions.c|DistanceFunctions/DistanceFunctions.c|ControllerFunctions/ControllerFunctions.c|ComplexMathFunctions/ComplexMathFunctions.c|CommonTables/CommonTables.c|BayesFunctions/BayesFunctions.c|BasicMathFunctions/BasicMathFunctions.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DSP/Source"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
 					</sourceEntries>
 				</configuration>

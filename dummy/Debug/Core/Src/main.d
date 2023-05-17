@@ -24,6 +24,8 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
  C:/Users/tanawatp/Desktop/65_02/FRA262_ProjectModule/Github/ProjectModule/dummy/DSP/Include/arm_math.h \
  C:/Users/tanawatp/Desktop/65_02/FRA262_ProjectModule/Github/ProjectModule/dummy/DSP/Include/arm_math_types.h \
@@ -57,7 +59,7 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  C:/Users/tanawatp/Desktop/65_02/FRA262_ProjectModule/Github/ProjectModule/dummy/DSP/Include/dsp/support_functions.h \
  C:/Users/tanawatp/Desktop/65_02/FRA262_ProjectModule/Github/ProjectModule/dummy/DSP/Include/dsp/quaternion_math_functions.h \
  C:/Users/tanawatp/Desktop/65_02/FRA262_ProjectModule/Github/ProjectModule/dummy/DSP/Include/dsp/window_functions.h \
- ../Core/Inc/KalmanFilter.h
+ ../Core/Inc/KalmanFilter.h ../Core/Inc/ReadEncoder.h ../Core/Inc/main.h
 ../Core/Inc/main.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 ../Core/Inc/stm32f4xx_hal_conf.h:
@@ -84,6 +86,8 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
 C:/Users/tanawatp/Desktop/65_02/FRA262_ProjectModule/Github/ProjectModule/dummy/DSP/Include/arm_math.h:
 C:/Users/tanawatp/Desktop/65_02/FRA262_ProjectModule/Github/ProjectModule/dummy/DSP/Include/arm_math_types.h:
@@ -118,3 +122,5 @@ C:/Users/tanawatp/Desktop/65_02/FRA262_ProjectModule/Github/ProjectModule/dummy/
 C:/Users/tanawatp/Desktop/65_02/FRA262_ProjectModule/Github/ProjectModule/dummy/DSP/Include/dsp/quaternion_math_functions.h:
 C:/Users/tanawatp/Desktop/65_02/FRA262_ProjectModule/Github/ProjectModule/dummy/DSP/Include/dsp/window_functions.h:
 ../Core/Inc/KalmanFilter.h:
+../Core/Inc/ReadEncoder.h:
+../Core/Inc/main.h:
